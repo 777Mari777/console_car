@@ -1,0 +1,14 @@
+C:\Users\Maria\Desktop\console_car\game_car\bin\Debug\net8.0\game_car.exe
+C:\Users\Maria\Desktop\console_car\game_car\bin\Debug\net8.0\game_car.deps.json
+C:\Users\Maria\Desktop\console_car\game_car\bin\Debug\net8.0\game_car.runtimeconfig.json
+C:\Users\Maria\Desktop\console_car\game_car\bin\Debug\net8.0\game_car.dll
+C:\Users\Maria\Desktop\console_car\game_car\bin\Debug\net8.0\game_car.pdb
+C:\Users\Maria\Desktop\console_car\game_car\obj\Debug\net8.0\game_car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\console_car\game_car\obj\Debug\net8.0\game_car.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\console_car\game_car\obj\Debug\net8.0\game_car.AssemblyInfo.cs
+C:\Users\Maria\Desktop\console_car\game_car\obj\Debug\net8.0\game_car.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\console_car\game_car\obj\Debug\net8.0\game_car.dll
+C:\Users\Maria\Desktop\console_car\game_car\obj\Debug\net8.0\refint\game_car.dll
+C:\Users\Maria\Desktop\console_car\game_car\obj\Debug\net8.0\game_car.pdb
+C:\Users\Maria\Desktop\console_car\game_car\obj\Debug\net8.0\game_car.genruntimeconfig.cache
+C:\Users\Maria\Desktop\console_car\game_car\obj\Debug\net8.0\ref\game_car.dll
